@@ -1,0 +1,23 @@
+﻿  EasyBMP.cpp
+  area.cpp
+  base.cpp
+  bwapiExt.cpp
+  bwem.cpp
+  cp.cpp
+  examples.cpp
+  exampleWall.cpp
+  graph.cpp
+  gridMap.cpp
+  map.cpp
+  mapDrawer.cpp
+  mapImpl.cpp
+  mapPrinter.cpp
+  neutral.cpp
+  tiles.cpp
+  utils.cpp
+  winutils.cpp
+  Dll.cpp
+  ExampleAIModule.cpp
+     Creating library Debug\ExampleAIModule.lib and object Debug\ExampleAIModule.exp
+  ExampleAIModule.vcxproj -> D:\Users\Eric\Desktop\BWAPI\starcraftAI\ExampleAIModule\Debug\ExampleAIModule.dll
+  ExampleAIModule.vcxproj -> D:\Users\Eric\Desktop\BWAPI\starcraftAI\ExampleAIModule\Debug\ExampleAIModule.pdb (Full PDB)
